@@ -197,7 +197,7 @@ These slicers allow users to customize the dashboard to their exact needs, creat
 ## 🚀 How to Use This Dashboard
 
 1. Download the Excel file:
-   [- [Download Marketing Performance Dashboard.xlsx](https://github.com/Mohamed-Aslam-29/Marketing-Performance-Dashboard/raw/main/Marketing_Performance_Dashboard.xlsx)](https://github.com/Mohamed-Aslam-29/Marketing_Performance_Dashboard/raw/refs/heads/main/Marketing%20campaign%20dataset.xlsx)
+  [ [- [Download Marketing Performance Dashboard.xlsx](https://github.com/Mohamed-Aslam-29/Marketing_Performance_Dashboard/raw/refs/heads/main/Marketing%20campaign%20dataset.xlsx)]
 
 2. Open it in **Microsoft Excel** (2016 or newer recommended).
 
