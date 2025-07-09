@@ -47,7 +47,8 @@ The dashboard aggregates marketing campaign data for:
 
 ## 🖼 Dashboard Screenshot
 
-![Marketing Dashboard](![Marketing_Dashboard](https://github.com/user-attachments/assets/88e556c8-8c6d-4e89-bcfc-df2e933b1a3c))
+![Marketing_Dashboard](https://github.com/user-attachments/assets/2e0ff6aa-a844-4a2c-9b99-c73c86da50c9)
+
 
 ---
 
@@ -224,18 +225,6 @@ These slicers allow users to customize the dashboard to their exact needs, creat
 Excel Dashboard Developer | Data Analytics Enthusiast
 
 ---
-
-## 📜 License
-
-MIT License *(or your preferred license)*
-
----
-
-## ⭐ Future Enhancements
-
-- Add ROI calculation visuals.
-- Integrate customer segmentation insights.
-- Incorporate year-over-year comparisons.
 - Explore Power BI or Tableau versions for web publishing.
 
 ---
